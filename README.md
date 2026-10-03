@@ -8,6 +8,10 @@ No es una app genérica de fitness. Es un **sistema operativo de autocuidado per
 
 ---
 
+![Carátula](imagenes/SOMA_Guard.png)
+![Carátula](imagenes/UI_Soma.png)
+---
+
 ## 📖 Índice
 
 - [¿Qué es SomaGuard?](#qué-es-somaguard)
@@ -243,5 +247,5 @@ Escribo sobre IA local, soberanía de datos y software que se puede tocar.
 🌐 Portfolio: [pedromencias.netlify.app](https://pedromencias.netlify.app)  
 💼 LinkedIn: [linkedin.com/in/pedro-mencías](https://linkedin.com/in/pedro-mencías)
 
-> *"La mejor app de salud no es la más bonita. Es la que usas sin pensar."*#   S O M A - G u a r d  
- 
+> *"La mejor app de salud no es la más bonita. Es la que usas sin pensar."*#   S O M A - G u a r d  
+ 
